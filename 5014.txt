@@ -1,0 +1,5 @@
+{
+  "aksdh": "ritaindr937@gmail.com",
+  "creditnaira": "www.creditnaira.online,152.32.142.8;www.baidu.com",
+  "whatsapp": "+2348065018986"
+}
